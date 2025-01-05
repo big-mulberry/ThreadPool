@@ -1,3 +1,0 @@
-/home/sjl/HelloProject/ThreadPool/build/CMakeFiles/threadpool.dir
-/home/sjl/HelloProject/ThreadPool/build/CMakeFiles/edit_cache.dir
-/home/sjl/HelloProject/ThreadPool/build/CMakeFiles/rebuild_cache.dir
